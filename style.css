@@ -1,0 +1,13 @@
+.panda-bg {
+  background-color: #fceae8;
+}
+.price {
+  color: #ff136f;
+}
+.btn-color {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  border: none;
+  color: white;
+  padding: 9px 25px;
+  border-radius: 8px;
+}
